@@ -1,5 +1,5 @@
 # Ristorante-con-Fusion
-A Single Page online food ordering application based on React-Redux.<br>
+A Single Page website for restraunt based on React-Redux.<br>
 The application has Bootstrap 4-based (Reactstrap) responsive UI design.
 
 
